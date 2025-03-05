@@ -1,2 +1,16 @@
 *.bz2
 *.exe
+*.d
+*.o
+*.su
+*.ld
+*.bin
+*.asm
+/project/realtek_amebaD_va0_example/GCC-RELEASE/project_hp/asdk/image
+*.a
+*.i
+*.s
+project/realtek_amebaD_va0_example/GCC-RELEASE/project_hp/asdk/lib/application/lib_user.a
+/project/realtek_amebaD_va0_example/GCC-RELEASE/project_lp/asdk/image
+project/realtek_amebaD_va0_example/inc/inc_hp/build_info.h
+project/realtek_amebaD_va0_example/inc/inc_lp/build_info.h
